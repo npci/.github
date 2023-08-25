@@ -1,4 +1,4 @@
-[![ National Payments Corporation of India](../images/npci-org-banner.png)]() 
+[![ National Payments Corporation of India](images/npci-org-banner.png)]() 
 
 ## Get Involved
 NPCI has powered India's envious march towards digital dominance and built homegrown instant payment systems that have reimagined payments & commerce. We find ourselves at the right juncture of contributing to the community and proud to announce that we are starting our journey of **OPEN SOURCING**.
