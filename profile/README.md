@@ -7,7 +7,7 @@ We invite you to collaborate and create transformative engineering projects that
 
 You can contribute with "good first issues" or any issues labeled as "help-wanted".
 
-You are free to contribute with new ideas or novel projects / features. Avenues are open and humongous opportunities for you.
+You are free to contribute new ideas or novel projects / features. Avenues are open and humongous opportunities for you.
 
 - [Explore Active Opensource Projects](https://github.com/orgs/npci/repositories)
 - [Explore Jobs at NPCI](https://www.npci.org.in/work-with-us/current-openings)
@@ -19,7 +19,7 @@ Following are some of the facts about the scale we operate,
 - UPI alone processes **9bn+** transactions per month
 - NPCI systems handles **~8bn API Calls / day (~100K APIs/ second)**
 - Designed and engineered for population scale use-cases
-- Focused verticals for **Distributed Systems, AI/ML & Analytics, Infrastructure and Opensource**
+- Focused verticals for **Distributed Systems & Blockchain, AI/ML & Analytics, Infrastructure and Opensource**
 
 ## About NPCI
 National Payments Corporation of India (NPCI), an umbrella organisation for operating retail payments and settlement systems in India, is an initiative of Reserve Bank of India (RBI) and Indian Banks’ Association (IBA) under the provisions of the Payment and Settlement Systems Act, 2007, for creating a robust Payment & Settlement Infrastructure in India.
